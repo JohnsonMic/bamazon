@@ -1,2 +1,2 @@
 # bamazon
-MySql utilize for  product database  node app  which demonstrates the inventory changes of updating, inserting and deleting products.
+MySql utilize for  product database  node app  which demonstrates the inventory changes of updating, inserting and deleting products. The pictures demonstrating the steps of the customer app of Bamazon are located in data base folder . The Image Bamazon table presents  products and colums of id, department, price and stock qauntity. The first prompt asking the customer what ID item is demonstrated. The second image demonstates the prompt of asking what qauntity the customer is purchasing and the last images demonstrates a the price , purchase cost and successful transaction.

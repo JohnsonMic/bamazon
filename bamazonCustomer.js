@@ -28,7 +28,6 @@ function loadProducts () {
 }
 
 	function promptCustomerForItem(data) {
-		
 		inquirer.prompt([
 		{
 			type: "input",
@@ -41,7 +40,8 @@ function loadProducts () {
 		.then(function(val) {
       		//checkIfShouldExit(val.choice);
       		var choiceId = parseInt(val.choice);
-      		
+      				
+
       		
       		var product = checkInventory(choiceId, data);
       		
